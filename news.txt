@@ -5,3 +5,10 @@ the discovery of a previously unknown species of deep-sea fish living at depths 
 4,000 meters in the Pacific Ocean. The creature, tentatively named "Luminaris abyssalis,"
 possesses bioluminescent organs along its entire body, producing a soft blue glow that
 researchers believe may serve as both a mating signal and a predator deterrent.
+
+According to the expedition leader Dr. Elena Vasquez, the fish was filmed during a
+series of dives with a remotely operated vehicle near the Mariana Trench. The discovery
+raises new questions about the adaptability of life in extreme environments and,
+scientists hope, will draw attention to the protection of deep-sea ecosystems from
+deep-sea mining and pollution. A full report is expected to be published in the journal
+Nature Oceanography next month.
